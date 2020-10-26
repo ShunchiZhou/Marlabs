@@ -1,4 +1,4 @@
-package com.demo.controller;
+package com.jwtsecurity.controller;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMapping;
