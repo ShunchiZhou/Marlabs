@@ -23,8 +23,11 @@ All endpoints for CRUD operations can be seen in java files above.
 
 ## model
 - JwtRequest.java
+
 JwtRequest.java contains username and password as a request.
+
 - JwtResponse.java
+
 JwtResponse.java return the response containing JWT token.
 
 ## service
