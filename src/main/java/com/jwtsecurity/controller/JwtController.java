@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @CrossOrigin()
-public class HelloWorldController {
+public class JwtController {
 
 	@RequestMapping({ "/hello" })
 	public String hello() {
