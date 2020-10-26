@@ -19,6 +19,7 @@ In the config package, there are four java files for JWT configuration:
 In the controller package, there are two java files:
 - JwtController.java
 - JwtAuthenticationController.java
+
 All endpoints for CRUD operations can be seen in java files above.
 
 ## model
@@ -32,4 +33,5 @@ JwtResponse.java return the response containing JWT token.
 
 ## service
 - JwtUserDetailsService.java
+
 This java file is aimed to display details of JWT token.
